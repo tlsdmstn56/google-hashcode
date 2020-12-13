@@ -1,4 +1,4 @@
-# street view routing (2014 final)
+# Street View Routing (2014 final)
 
 ## Problem statements
 
@@ -12,6 +12,6 @@
    - once visit an edge, the length of the edge becomes 0. On the next visit, the length will be decremented by 1. e.g. 30 -> 0 -> -1 -> -2.
    - score: score = length^3 / cost
 
-## Achieve Score
+## Achieved Score
 
 907271
