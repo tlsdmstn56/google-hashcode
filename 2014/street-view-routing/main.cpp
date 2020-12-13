@@ -21,11 +21,7 @@ struct Edge
     void CalcScore()
     {
         double length2 = static_cast<double>(length);
-        score = length2 * length2 / cost;
-        if (length2 < 0.0)
-        {
-            score *= -1.0;
-        }
+        score = length2 * length2 * length2 / cost;
     }
 
     void Visit()
