@@ -2,8 +2,8 @@
 
 ## Problem statements
 
-[View problem](https://storage.googleapis.com/coding-competitions.appspot.com/HC/2014/hashcode2014_final_task.pdf)
-[Download input file](https://storage.googleapis.com/coding-competitions.appspot.com/HC/2014/paris_54000.txt)
+* [View problem](https://storage.googleapis.com/coding-competitions.appspot.com/HC/2014/hashcode2014_final_task.pdf)
+* [Download input file](https://storage.googleapis.com/coding-competitions.appspot.com/HC/2014/paris_54000.txt)
 
 ## Solution 
 
